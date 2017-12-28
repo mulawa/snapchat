@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="snapchat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="snapchat.war">
+      <element id="artifact" artifact-name="snapchat:war exploded" />
+    </root>
+  </artifact>
+</component>
